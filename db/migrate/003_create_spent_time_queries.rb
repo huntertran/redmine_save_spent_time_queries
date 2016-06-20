@@ -4,7 +4,7 @@ class CreateSpentTimeQueries < ActiveRecord::Migration
 
       t.string :name
 
-      t.string :query
+      t.text :query
 
       t.boolean :is_public
 
