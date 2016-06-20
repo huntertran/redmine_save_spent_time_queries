@@ -1,7 +1,7 @@
 # redmine_save_spent_time_queries
 
 
-Compatible with Redmine 2.3.x. Other versions have not been tested yet.
+Updated plugin for Redmine 3.x.
 
 This plugin allows to save spent time query, supports group by user, project, activity and filter by user group. It also brings saved queries to top menu.
 
